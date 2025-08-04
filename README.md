@@ -9,4 +9,4 @@ I'm [James Brooks](https://james.brooks.page), engineering team lead at [Laravel
 
 - Founder of [Cachet](https://cachethq.io), the open-source status page system. Acquired in 2018, I purchased Cachet back in August 2023. We're now working on [3.x](https://github.com/CachetHQ/Cachet/discussions/4342).
 - The [Laravel Artisan Cheatsheet](https://artisan.page). A resource for Laravel developers to learn more about Artisan commands.
-- Oganiser of the [PHP Stoke](https://phpstoke.co.uk) meet-up in Stoke-on-Trent.
+- Organiser of the [PHP Stoke](https://phpstoke.co.uk) meet-up in Stoke-on-Trent.
