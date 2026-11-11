@@ -3,10 +3,11 @@
 
 ## :wave: Oh, hey!
 
-I'm [James Brooks](https://james.brooks.page), engineering team lead at [Laravel](https://laravel.com), founder of [Cachet](https://cachethq.io) and [public speaker](https://eventy.io/speakers/jamesbrooks).
+I'm [James Brooks](https://james.brooks.page), Head of Enterprise Enablement at [Laravel](https://laravel.com), founder of [Cachet](https://cachethq.io) and [public speaker](https://james.brooks.page/speaking).
 
 ## Now
 
 - Founder of [Cachet](https://cachethq.io), the open-source status page system. Acquired in 2018, I purchased Cachet back in August 2023. We're now working on [3.x](https://github.com/CachetHQ/Cachet/discussions/4342).
 - The [Laravel Artisan Cheatsheet](https://artisan.page). A resource for Laravel developers to learn more about Artisan commands.
 - Organiser of the [PHP Stoke](https://phpstoke.co.uk) meet-up in Stoke-on-Trent.
+- I'm also making iOS games, [Berroku](https://berroku.com), [Shapoku](https://shapoku.com), [Linkoku](https://linkoku.com) and [Loopoku](https://loopoku.com).
